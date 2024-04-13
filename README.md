@@ -9,8 +9,10 @@ Welcome to my GitHub profile! I'm currently pursuing my Master's in Computer Sci
 - 🎓 Graduated in Engineering
 - 🧠 Passionate about Artificial Intelligence
 - 🌱 Currently learning R and honing skills in AI
-- 💻 Proficient in C#, SQL, MongoDB, JavaScript, HTML5, CSS
+- 💻 Proficient in C#, Python, JavaScript, HTML5, CSS, SQL, MongoDB
+- 🛠️ Familiar with SOLID principles and other best practices for clean code
 - 🐳 Familiar with Docker
+- 🤝 Familiar with Java
 - 🚀 Actively seeking opportunities to apply and enhance my skills
 
 ## Projects

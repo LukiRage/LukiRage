@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm currently pursuing my Master's in Computer Sci
 - 🤝 Familiar with Java
 - 🚀 Actively seeking opportunities to apply and enhance my skills
 
-## Projects
+## 🎉 Projects
 Here are a few highlights of my projects:
 
 1. **Project Name 1** - Brief description of the project. [Link to repository]

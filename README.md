@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I'm currently pursuing my Master's in Computer Sci
 # 🎉 Projects
 Here are a few highlights of my projects:
 
-1. **Project Name 1** - Brief description of the project. [Link to repository]
+1. **Project Name 1** - Dogbook is Facebook like social media platform for dog owners. [Link to repository](https://github.com/LukiRage/Dogbook)
    
    
-2. **Project Name 2** - Brief description of the project. [Link to repository]
+2. **Project Name 2** - A .NET project for managing data. Utilizes MySQL database and offers REST and SOAP APIs for data retrieval. Implements JWT authentication for secure access. [Link to repository](https://github.com/LukiRage/ORM_Project)
    
 
 # 💻 Tech Stack:

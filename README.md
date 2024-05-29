@@ -27,7 +27,7 @@ Here are a few highlights of my projects:
 3. **SocialHub** - Springboot REST API for simple socialmedia app with tests. [Link to repository](https://github.com/LukiRage/socialhub_api)
 
 # 📖 Courses
-I'm currently enrolled in the [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/) course on Udemy. This course is designed to provide a comprehensive introduction to machine learning, covering both theoretical concepts and practical applications using Python and R.
+I'm currently enrolled in the [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/) course on Udemy. This course is designed to provide a comprehensive introduction to machine learning, covering both theoretical concepts and practical applications using Python and R.</br>
 Here is my progress [Link to repository](https://github.com/LukiRage/AI_course)
 
 # 💻 Tech Stack:

@@ -29,6 +29,8 @@ Here are a few highlights of my projects:
 
 4. **Rocket-Asteroid_game** - Rocket asteroid game with showcase mode, play mode and "game over" screen [Link to repository](https://github.com/LukiRage/Rocket-Asteroid_game)
 
+5. **PDF to slides** - A cli tool for automatically generating presentations from a pdf or markdown file [Link to repository](https://github.com/LukiRage/pdf-to-slides)
+
 # 📖 Courses
 I'm currently enrolled in the [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/) course on Udemy. This course is designed to provide a comprehensive introduction to machine learning, covering both theoretical concepts and practical applications using Python and R.</br>
 <!-- Here is my progress. [Link to repository](https://github.com/LukiRage/AI_course)-->
